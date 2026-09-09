@@ -1,0 +1,10 @@
+Segment,Allele_comparison,P8DS1_n_over_N_percent,Control_group,Control_n_over_N_percent,Odds_ratio,Fisher_P_raw,BH_adjusted_P,Significant_raw,Significant_after_BH
+VP4,P[8]-B vs P[8]-A,67/67 (100.0%),P[8]Wa,22/55 (40.0%),inf,1.888e-15,3.399e-15,YES,YES
+VP6,type-B vs A,55/70 (78.6%),P[4]DS-1,30/70 (42.9%),4.89,2.620e-05,2.948e-05,YES,YES
+VP1,type-B vs A+C+D,55/70 (78.6%),P[4]DS-1,20/70 (28.6%),9.17,3.960e-09,5.091e-09,YES,YES
+VP2,type-B vs A,65/70 (92.9%),P[4]DS-1,10/70 (14.3%),78.00,1.478e-22,4.434e-22,YES,YES
+VP3,type-B vs A+C,62/70 (88.6%),P[4]DS-1,4/70 (5.7%),127.88,2.333e-25,1.050e-24,YES,YES
+NSP1,type-B vs A,66/70 (94.3%),P[4]DS-1,13/70 (18.6%),72.35,2.976e-21,6.695e-21,YES,YES
+NSP2,type-B vs A+C,56/70 (80.0%),P[4]DS-1,14/70 (20.0%),16.00,8.467e-13,1.270e-12,YES,YES
+NSP3,type-B vs A,67/70 (95.7%),P[4]DS-1,8/70 (11.4%),173.08,1.580e-26,1.422e-25,YES,YES
+NSP4,type-B vs A,55/70 (78.6%),P[4]DS-1,31/70 (44.3%),4.61,5.358e-05,5.358e-05,YES,YES
